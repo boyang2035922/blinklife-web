@@ -7,8 +7,8 @@ import { Button } from "@/components/ui/Button";
 
 const navLinks = [
   { label: "功能", href: "#features" },
-  { label: "模拟器", href: "#simulator" },
   { label: "定价", href: "#pricing" },
+  { label: "联系我们", href: "/contact" },
 ];
 
 export function Navbar() {
