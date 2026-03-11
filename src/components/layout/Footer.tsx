@@ -18,10 +18,10 @@ export function Footer() {
 
         {/* Links */}
         <div className="flex items-center gap-6 text-sm text-gray-500">
-          <a href="#" className="hover:text-gray-300 transition-colors">
+          <a href="/privacy" className="hover:text-gray-300 transition-colors">
             隐私政策
           </a>
-          <a href="#" className="hover:text-gray-300 transition-colors">
+          <a href="/terms" className="hover:text-gray-300 transition-colors">
             使用条款
           </a>
           <a href="/contact" className="hover:text-gray-300 transition-colors">
