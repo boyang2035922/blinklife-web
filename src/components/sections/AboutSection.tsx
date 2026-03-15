@@ -51,7 +51,7 @@ export function AboutSection() {
           {[
             { label: "公司全称", value: "石家庄灵眸光年科技有限公司" },
             { label: "成立年份", value: "2025" },
-            { label: "联系我们", value: "hello@blinklife.ai" },
+            { label: "联系我们", value: "hello@blink-life.com" },
           ].map(({ label, value }) => (
             <div key={label}>
               <p className="text-gray-600 text-xs uppercase tracking-widest mb-2">

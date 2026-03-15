@@ -222,10 +222,10 @@ export function TermsSection() {
             <br />
             电子邮箱：
             <a
-              href="mailto:hello@blinklife.ai"
+              href="mailto:hello@blink-life.com"
               className="text-brand-400 hover:underline"
             >
-              hello@blinklife.ai
+              hello@blink-life.com
             </a>
           </p>
         </motion.div>

@@ -227,7 +227,7 @@ export function PrivacySection() {
             "查看与访问：您可以在应用「个人中心」中查看您的个人资料和数据；",
             "更正与补充：当您发现个人信息有误时，您可以自行更正或联系我们进行修改；",
             "删除：您可以删除您的视频、打点记录和个人资料；",
-            "注销账号：您可以通过应用内「设置 — 账号管理 — 注销账号」功能或发送邮件至 hello@blinklife.ai 申请注销。账号注销后，我们将停止提供服务并依法删除您的个人信息；",
+            "注销账号：您可以通过应用内「设置 — 账号管理 — 注销账号」功能或发送邮件至 hello@blink-life.com 申请注销。账号注销后，我们将停止提供服务并依法删除您的个人信息；",
             "撤回同意：您可以随时在设备系统设置中关闭蓝牙、相机、麦克风和存储等权限授权；",
             "获取个人信息副本：您可以联系我们获取您的个人信息副本。",
           ]}
@@ -257,10 +257,10 @@ export function PrivacySection() {
             <br />
             电子邮箱：
             <a
-              href="mailto:hello@blinklife.ai"
+              href="mailto:hello@blink-life.com"
               className="text-brand-400 hover:underline"
             >
-              hello@blinklife.ai
+              hello@blink-life.com
             </a>
             <br />
             我们将在收到您的请求后 15 个工作日内予以回复。
