@@ -6,8 +6,8 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/Button";
 
 const navLinks = [
-  { label: "功能", href: "#features" },
-  { label: "定价", href: "#pricing" },
+  { label: "功能", href: "/#features" },
+  { label: "定价", href: "/#pricing" },
   { label: "联系我们", href: "/contact" },
 ];
 
@@ -24,7 +24,7 @@ export function Navbar() {
       <div className="mx-auto max-w-7xl px-6 py-4">
         <div className="glass rounded-2xl px-6 py-3 flex items-center justify-between">
           {/* Logo */}
-          <a href="#" className="flex items-center gap-3">
+          <a href="/" className="flex items-center gap-3">
             <Image
               src="/images/logo.jpg"
               alt="BlinkLife Logo"
